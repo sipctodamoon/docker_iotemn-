@@ -26,6 +26,6 @@ else
 fi
 
 cat ~/.iotedata/iote.conf
-
+echo "starting ioted"
 cd /root/iote/IoTE-1.32-Linux
 ./ioted
